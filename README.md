@@ -126,22 +126,3 @@ The E-R Diagram captures the core entities and relationships:
 | Concurrency Control        | Serializable transactions to avoid double-booking                            |
 
 ---
-
-## 8. Conclusion
-
-The Airline Reservation and Management System (Version 3) provides a **comprehensive, real-time solution** for managing flights, passengers, bookings, seats, and loyalty programs. The system is designed for scalability, remote access, and operational efficiency, incorporating advanced SQL features, Python-based front-end, and robust database design.  
-
-The project successfully demonstrates:
-- Real-time seat allocation  
-- Loyalty program automation  
-- Efficient cancellation handling  
-- Safe concurrent transaction management  
-
-This system can be **further enhanced** with features like payment gateway integration, advanced analytics for flight performance, and predictive seat assignment algorithms.  
-
----
-
-## 9. References
-1. MySQL Documentation – [https://dev.mysql.com/doc/](https://dev.mysql.com/doc/)  
-2. Streamlit Documentation – [https://docs.streamlit.io/](https://docs.streamlit.io/)  
-3. “Database System Concepts” – Silberschatz, Korth, Sudarshan
